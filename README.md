@@ -14,4 +14,5 @@ ReactJS (Functional Components + Hooks)
 
 JavaScript (ES6+)
 
-CSS / Tailwind CSS (optional for styling)
+CSS / Tailwind CSS (for styling)
+
